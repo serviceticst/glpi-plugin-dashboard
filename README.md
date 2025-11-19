@@ -6,8 +6,8 @@
 
 
 ### 📋 Lista de plugins
-- 📥 [Plugin para versão 10 do GLPI](https://github.com/serviceticst/glpi-plugin-dashboard/releases/download/v1.0.3/dashboard.zip)
-- 📥 [Plugin para versão 11 do GLPI](https://github.com/serviceticst/glpi-plugin-dashboard/releases/download/v2.0.0/dashboard.zip)
+- 📥 [Plugin para versão 10 do GLPI](https://github.com/serviceticst/glpi-plugin-dashboard/releases/tag/v1.0.3)
+- 📥 [Plugin para versão 11 do GLPI](https://github.com/serviceticst/glpi-plugin-dashboard/releases/tag/v2.0.0)
 
 
 ***
@@ -20,8 +20,8 @@
 
 📋 Plugins List
 
-- 📥 [Plugin for GLPI version 10](https://github.com/serviceticst/glpi-plugin-dashboard/releases/download/v1.0.3/dashboard.zip)
-- 📥 [Plugin for GLPI version 11](https://github.com/serviceticst/glpi-plugin-dashboard/releases/download/v2.0.0/dashboard.zip)
+- 📥 [Plugin for GLPI version 10](https://github.com/serviceticst/glpi-plugin-dashboard/releases/tag/v1.0.3)
+- 📥 [Plugin for GLPI version 11](https://github.com/serviceticst/glpi-plugin-dashboard/releases/tag/v2.0.0)
 
 
 
