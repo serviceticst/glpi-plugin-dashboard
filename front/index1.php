@@ -297,6 +297,7 @@ else {
             <li class="dropdown menu"><a href="#" data-toggle="dropdown" class="dropdown-toggle" style="color:#fff;"><span class="text-nav1"><i class='fa fa-edit'></i>&nbsp;<?php echo __('Tickets','dashboard');?>&nbsp;<b class="caret"></b></span></a>
               <ul role="menu" class="dropdown-menu">
                 <li><a tabindex="-1" href="./tickets/tickets.php" target="_blank"> <?php echo __('Overall','dashboard'); ?> </a></li>
+				<li><a tabindex="-1" href="./tickets/alertas.php" target="_blank"> <i class="fa fa-bell"></i> Alertas </a></li>
                 <li><a tabindex="-1" href="./tickets/select_ent.php" target="_blank"> <?php echo __('by Entity','dashboard'); ?> </a></li>
                 <li><a tabindex="-1" href="./tickets/select_grupo.php" target="_blank">  <?php echo __('by Group','dashboard'); ?> </a></li>                
                 <!-- <li><a tabindex="-1" href="./map/index.php" target="_blank"> <?php echo __('Map','dashboard'); ?> </a></li> -->

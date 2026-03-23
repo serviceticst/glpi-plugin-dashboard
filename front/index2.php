@@ -303,6 +303,13 @@ else {
                                                 <span class='hidden-minibar'> <?php echo __('Overall','dashboard'); ?> </span>
                                             </a>
                                         </li>
+                                        <!-- Novo menu Alertas -->
+                                        <li>
+                                            <a href="./tickets/alertas.php" data-original-title='Alertas' target="_blank">
+                                                <i class="fa fa-bell"></i>
+                                                <span class='hidden-minibar'> Alertas </span>
+                                            </a>
+                                        </li>
                                         <li>
                                              <a href="./tickets/select_ent.php" data-original-title=' por Entidade' target="_blank">
                                                 <i class="fa fa-angle-right"></i>
